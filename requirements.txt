@@ -1,0 +1,8 @@
+openai
+chromadb
+sentence-transformers
+feedparser
+datasets
+beautifulsoup4
+gradio
+python-dotenv
